@@ -1,4 +1,17 @@
-### Hi there 👋
+### Olá! 👋
+Bem-vindo ao meu GitHub! 😄
+
+Meu nome é Gabriel e eu adoro entender coisas novas, retirar informações de dados e comunicar o que eu aprendi. Sou fascinado, estudo sobre e estou buscando transicionar para a área de Ciência de Dados.
+
+Busco criar e compartilhar conteúdos na área e estou sempre disponível para conversar com novas pessoas.
+
+**📫 Conecte-se comigo:**
+
+Email: reisrgabriel@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/gabrielreisrodrigues/
+
+Medium: https://medium.com/psicodata
 
 <!--
 **GabrielReisR/GabrielReisR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +23,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
