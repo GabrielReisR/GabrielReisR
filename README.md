@@ -7,13 +7,15 @@ Busco criar e compartilhar conteúdos na área e estou sempre disponível para c
 
 **📫 Conecte-se comigo:**
 
-Email: reisrgabriel@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/gabrielreisrodrigues/
 
-Medium: https://medium.com/psicodata
+🌱 LinkedIn: https://www.linkedin.com/in/gabrielreisrodrigues/
 
-RPubs (posts em RMarkdown): https://rpubs.com/reisrgabriel
+⚡ Blog: https://medium.com/psicodata
+
+💬 Email: reisrgabriel@gmail.com
+
+🔭 RPubs (posts em RMarkdown): https://rpubs.com/reisrgabriel
 
 <!--
 **GabrielReisR/GabrielReisR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
