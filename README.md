@@ -7,7 +7,7 @@ Busco criar e compartilhar conteúdos na área e estou sempre disponível para c
 
 **📫 Conecte-se comigo:**
 
-
+😄 Links gerais de contato: https://linktr.ee/gabrielrr
 
 🌱 LinkedIn: https://www.linkedin.com/in/gabrielreisrodrigues/
 
