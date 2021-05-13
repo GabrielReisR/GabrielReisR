@@ -1,7 +1,7 @@
 ### Olá! 👋
 Bem-vindo ao meu GitHub! 😄
 
-Meu nome é Gabriel e eu adoro entender coisas novas, retirar informações de dados e comunicar o que eu aprendi. Sou fascinado por e estudo bastante sobre Ciência de Dados.
+Meu nome é Gabriel e eu adoro entender coisas novas, retirar informações de dados e comunicar o que eu aprendi. Sou fascinado por e estudo bastante Ciência de Dados.
 
 Busco criar e compartilhar conteúdos na área e estou sempre disponível para conversar com novas pessoas.
 
