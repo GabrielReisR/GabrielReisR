@@ -1,5 +1,5 @@
 ### Hi! 👋
-Welcome to my GitHub! 😄
+Welcome to my GitHub 😄
 
 I love understanding new things, extracting information from data and communicating what I’ve learned.
 
