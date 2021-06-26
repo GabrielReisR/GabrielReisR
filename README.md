@@ -5,8 +5,6 @@ I love understanding new things, extracting information from data and communicat
 
 My current focus is on statistics, psychometrics, psychological methods and open science.
 
-**📫 Conecte-se comigo:**
-
 🌱 Contact me at: https://reisrgabriel.com/
 
 <!--
