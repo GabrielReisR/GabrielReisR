@@ -5,7 +5,7 @@ I love understanding new things, extracting information from data and communicat
 
 My current focus is on statistics, psychometrics, psychological methods and open science.
 
-🌱 Contact me at: https://reisrgabriel.com/
+🌱 Contact me at: [Site](https://reisrgabriel.com/) | [LinkedIn](https://www.linkedin.com/in/gabrielreisrodrigues/).
 
 <!--
 **GabrielReisR/GabrielReisR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
